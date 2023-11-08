@@ -1,2 +1,2 @@
-eh3bj2hd# Js-projects
+# Js-projects
 js projects real life 
